@@ -1,0 +1,8 @@
+//
+// Created by getynge on 12/16/17.
+//
+
+#ifndef ADMINBOT_MACROPARSER_HPP
+#define ADMINBOT_MACROPARSER_HPP
+
+#endif //ADMINBOT_MACROPARSER_HPP
